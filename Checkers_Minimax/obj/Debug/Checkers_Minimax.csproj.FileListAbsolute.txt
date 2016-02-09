@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2013\Projects\Checkers_Minimax\Checkers_Minimax\bin\Debug\Checkers_Minimax.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\Checkers_Minimax\Checkers_Minimax\obj\Debug\Checkers_Minimax.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\Checkers_Minimax\Checkers_Minimax\obj\Debug\Checkers_Minimax.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2013\Projects\Checkers_Minimax\Checkers_Minimax\obj\Debug\Checkers_Minimax.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Checkers_minimax\Checkers_Minimax\bin\Debug\Checkers_Minimax.exe
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Checkers_minimax\Checkers_Minimax\bin\Debug\Checkers_Minimax.pdb
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Checkers_minimax\Checkers_Minimax\obj\Debug\Checkers_Minimax.exe
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Checkers_minimax\Checkers_Minimax\obj\Debug\Checkers_Minimax.pdb
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Checkers_minimax\Checkers_Minimax\obj\Debug\Checkers_minimax.board_form.resources
